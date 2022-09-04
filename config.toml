@@ -1,4 +1,2 @@
 baseURL = 'https://github.com/janraasch/hugo-scroll.git themes/hugo-scroll'
-git clone https://github.com/janraasch/hugo-scroll.git hugo-scroll
-cd hugo-scroll
-hugo server --source=exampleSite --themesDir=../..
+
