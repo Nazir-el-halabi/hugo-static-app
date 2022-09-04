@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "ananke"
+baseURL = 'https://github.com/janraasch/hugo-scroll.git themes/hugo-scroll'
+git clone https://github.com/janraasch/hugo-scroll.git hugo-scroll
+cd hugo-scroll
+hugo server --source=exampleSite --themesDir=../..
